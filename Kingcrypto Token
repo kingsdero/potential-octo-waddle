@@ -1,0 +1,11 @@
+echo "# Kingcrypto" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/kingsdero/Kingcrypto.git
+git push -u origin main
+git create crypto token
+git maint to token 
+git accept wallet
+
